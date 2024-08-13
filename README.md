@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Alaa Khoury - @Alaa4192
-- 👀 I’m interested in Software Engineering!
-- 💻 I'm a Senior Android Engineer @Houzz.
-- 🌱 I’m currently learning IOS development.
+- 💻 I'm a Senior Software Engineer.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/alaa-khoury/
 
 <!---
